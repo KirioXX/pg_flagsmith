@@ -2,7 +2,7 @@
 
 ---
 
-**Source Code**: <a href="https://github.com/KirioXX/pg_flagsmith" target="_blank">https://github.com/KirioXX/pg_flagsmith</a>
+**Source Code**: [KirioXX/pg_flagsmith](https://github.com/KirioXX/pg_flagsmith)
 
 ---
 
@@ -36,7 +36,7 @@ Requires:
 
 - [pgx](https://github.com/tcdi/pgx)
 
-```shell
+```sh {name=start}
 cargo pgx run
 ```
 
